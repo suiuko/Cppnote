@@ -1,1 +1,3 @@
-# Cppnote
+# 🍉 Cppnote
+
+CPP的笔记
