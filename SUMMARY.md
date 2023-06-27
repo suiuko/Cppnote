@@ -4,7 +4,7 @@
 
 ## 🥥 base
 
-* [输入输出](base/shu-ru-shu-chu.md)
+* [初识输入输出](base/chu-shi-shu-ru-shu-chu.md)
 * [变量和基本类型](base/bian-liang-he-ji-ben-lei-xing.md)
 * [字符串](base/zi-fu-chuan.md)
 * [向量](base/xiang-liang.md)
