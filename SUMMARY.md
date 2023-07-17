@@ -5,7 +5,8 @@
 ## 🥥 base
 
 * [初识输入输出](base/chu-shi-shu-ru-shu-chu.md)
-* [变量和基本类型](base/bian-liang-he-ji-ben-lei-xing.md)
+* [数据类型](base/shu-ju-lei-xing.md)
+* [变量类型](base/bian-liang-lei-xing.md)
 * [字符串](base/zi-fu-chuan.md)
 * [向量](base/xiang-liang.md)
 * [数组](base/shu-zu.md)
