@@ -1,4 +1,16 @@
-# 初识输入输出
+# 关键字
+
+```cpp
+ //std 是名为std的命名空间(namespace)中的
+ 
+ // 标准输入
+ std::cin
+ std::cin >> v1 >> v2; // 相当于将第一个值存入v1 ,第二个数值存入v2
+ // >> 是输入运算符，接受一个 istream 作为左侧的运算对象
+ 
+ //标准输出
+ std::cout <<
+```
 
 ```cpp
 #include <iostream>
@@ -36,3 +48,12 @@ std::cin >> v1 >> v2;
 std::cout << "hello" << v1 << "and" << v2
         << "is" << v1 + v2 << std::endl;
 ```
+
+
+
+### 头文件
+
+有标准库中的头文件就用 <> 来包括： `#include <iostream>`&#x20;
+
+如果不属于标准库的头文件，需要用双引号包围 ： `#include "nihao.h"`&#x20;
+
