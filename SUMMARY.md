@@ -5,7 +5,8 @@
 ## 🥥 base
 
 * [关键字](base/guan-jian-zi.md)
-* [数据类型](base/shu-ju-lei-xing.md)
+* [数据类型](base/shu-ju-lei-xing/README.md)
+  * [常量](base/shu-ju-lei-xing/chang-liang.md)
 * [变量类型](base/bian-liang-lei-xing.md)
 * [字符串](base/zi-fu-chuan.md)
 * [向量](base/xiang-liang.md)

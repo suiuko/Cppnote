@@ -1,4 +1,4 @@
-# 变量和基本类型
+# 数据类型
 
 ## 一、基本内置类型
 
@@ -43,7 +43,7 @@
 | long double        | 16 个字节    | 长双精度型 16 个字节（128位）内存空间，可提供18-19位有效数字。                  |
 | wchar\_t           | 2 或 4 个字节 | 1 个宽字符                                                 |
 
-<figure><img src="../.gitbook/assets/32-64.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/32-64.jpg" alt=""><figcaption></figcaption></figure>
 
 ## 二、 enumeration 枚举类型
 
