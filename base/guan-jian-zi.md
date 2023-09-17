@@ -57,3 +57,8 @@ std::cout << "hello" << v1 << "and" << v2
 
 如果不属于标准库的头文件，需要用双引号包围 ： `#include "nihao.h"`&#x20;
 
+### 命名空间的using声明
+
+常用到的库函数基本上都属于命名空间std, 例如 std:cin 表示从标准输入中读取内容。
+
+正常情况使用：using namespace std; 就可以

@@ -35,3 +35,33 @@ string str2 = "google";
 string str = str1 + str2;
 </code></pre></td></tr><tr><td>3</td><td>strlen(s1);<br>返回字符串 s1 的长度。</td></tr><tr><td>4</td><td>strcmp(s1, s2);<br>如果 s1 和 s2 是相同的，则返回 0；如果 s1&#x3C;s2 则返回值小于 0；如果 s1>s2 则返回值大于 0。</td></tr><tr><td>5</td><td>strchr(s1, ch);<br>返回一个指针，指向字符串 s1 中字符 ch 的第一次出现的位置。</td></tr><tr><td>6</td><td>strstr(s1, s2);<br>返回一个指针，指向字符串 s1 中字符串 s2 的第一次出现的位置。</td></tr></tbody></table>
 
+### C++ 中的 String 类
+
+```cpp
+#include <iostream>
+#include <string>
+ 
+using namespace std;
+ 
+int main ()
+{
+   string str1 = "runoob";
+   string str2 = "google";
+   string str3;
+   int  len ;
+ 
+   // 复制 str1 到 str3
+   str3 = str1;
+   cout << "str3 : " << str3 << endl;
+ 
+   // 连接 str1 和 str2
+   str3 = str1 + str2;
+   cout << "str1 + str2 : " << str3 << endl;
+ 
+   // 连接后，str3 的总长度
+   len = str3.size();
+   cout << "str3.size() :  " << len << endl;
+ 
+   return 0;
+}
+```
