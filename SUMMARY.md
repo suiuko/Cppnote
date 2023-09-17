@@ -18,7 +18,7 @@
 * [程序流程结构](base/cheng-xu-liu-cheng-jie-gou/README.md)
   * [判断语句](base/cheng-xu-liu-cheng-jie-gou/pan-duan-yu-ju/README.md)
     * [IF 语句](base/cheng-xu-liu-cheng-jie-gou/pan-duan-yu-ju/if-yu-ju.md)
-    * [Page](base/cheng-xu-liu-cheng-jie-gou/pan-duan-yu-ju/page.md)
+    * [switch](base/cheng-xu-liu-cheng-jie-gou/pan-duan-yu-ju/switch.md)
 * [向量](base/xiang-liang.md)
 * [数组](base/shu-zu.md)
 * [表达式](base/biao-da-shi.md)
