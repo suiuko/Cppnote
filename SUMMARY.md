@@ -22,6 +22,8 @@
     * [switch](base/cheng-xu-liu-cheng-jie-gou/pan-duan-yu-ju/switch.md)
   * [循环语句](base/cheng-xu-liu-cheng-jie-gou/xun-huan-yu-ju/README.md)
     * [while](base/cheng-xu-liu-cheng-jie-gou/xun-huan-yu-ju/while.md)
+    * [do - while](base/cheng-xu-liu-cheng-jie-gou/xun-huan-yu-ju/do-while.md)
+    * [for](base/cheng-xu-liu-cheng-jie-gou/xun-huan-yu-ju/for.md)
 * [向量](base/xiang-liang.md)
 * [数组](base/shu-zu.md)
 * [表达式](base/biao-da-shi.md)

@@ -22,7 +22,45 @@ while(num<10){
 猜数字
 
 ```cpp
+#include<iostream>
+using namespace std;
+// time 系统时间头文件
+#include<ctime>
+
 int main(){
-    rand()%100 // rand()%100 
+
+    //添加随机数的种子，用当前系统的时间生成随机数，每次都不一样
+    
+    srand((unsigned int)time(NULL))
+    // 1.生成随机数
+    rand()%100 // rand()%100+1 生成 0+1 ~ 99+1的随机数
+    
+    cout << num << endl;
+    
+    //2. 玩家进行检测
+    int val =0; // 玩家输入的数据
+    
+    
+    while(){
+       cin >> val; 
+    //3. 判断玩家的猜测
+    
+        if(val > num){
+            cout << "猜测过大" << endl;
+        }
+        else if (val < num)
+        {
+            cout << "猜测过小" << endl;
+        }
+        else 
+        {    //猜对了 退出
+            cout << "恭喜您 猜对了" << endl;
+            break; // 用该关键词 可以退出循环
+        }
+    }
+    
+    
+    
+    
 }
 ```
