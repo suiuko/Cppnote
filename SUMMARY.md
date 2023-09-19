@@ -28,15 +28,17 @@
   * [跳转语句](base/cheng-xu-liu-cheng-jie-gou/tiao-zhuan-yu-ju.md)
 * [数组](base/shu-zu/README.md)
   * [一维数组](base/shu-zu/yi-wei-shu-zu.md)
+  * [二维数组](base/shu-zu/er-wei-shu-zu.md)
+* [函数](base/han-shu.md)
 * [向量](base/xiang-liang.md)
 * [表达式](base/biao-da-shi.md)
 * [语句](base/yu-ju.md)
-* [函数](base/han-shu.md)
 * [类](base/lei.md)
 
 ## 🥝 标准库
 
-* [🍳 常用算法](biao-zhun-ku/chang-yong-suan-fa.md)
+* [🍳 常用算法](biao-zhun-ku/chang-yong-suan-fa/README.md)
+  * [排序](biao-zhun-ku/chang-yong-suan-fa/pai-xu.md)
 * [IO 库](biao-zhun-ku/io-ku.md)
 * [顺序容器](biao-zhun-ku/shun-xu-rong-qi.md)
 * [泛型算法](biao-zhun-ku/fan-xing-suan-fa.md)
