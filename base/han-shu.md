@@ -5,8 +5,14 @@
 一般格式：
 
 ```cpp
-return_type fuction_name(parameter list{
+return_type fuction_name(parameter list){
     body of the function
+}
+
+返回值类型 函数名(参数列表){
+    函数题语句
+    return 表达式
+
 }
 ```
 
@@ -15,6 +21,14 @@ return_type fuction_name(parameter list{
 函数名称：这是函数的实际名称。
 
 参数：需要 调用的实际参数
+
+### 函数定义步骤
+
+1. 返回值类型
+2. 函数名
+3. 参数表列
+4. 函数体语句
+5. return 表达式
 
 #### 实例
 
