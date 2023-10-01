@@ -54,6 +54,9 @@
   * [结构体数组](base/jie-gou-ti/jie-gou-ti-shu-zu.md)
   * [结构体指针](base/jie-gou-ti/jie-gou-ti-zhi-zhen.md)
   * [结构体嵌套结构体](base/jie-gou-ti/jie-gou-ti-qian-tao-jie-gou-ti.md)
+  * [结构体做函数参数](base/jie-gou-ti/jie-gou-ti-zuo-han-shu-can-shu.md)
+  * [结构体中const使用场景](base/jie-gou-ti/jie-gou-ti-zhong-const-shi-yong-chang-jing.md)
+  * [结构体案例](base/jie-gou-ti/jie-gou-ti-an-li.md)
 * [语句](base/yu-ju.md)
 * [类](base/lei.md)
 
