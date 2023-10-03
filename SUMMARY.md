@@ -38,7 +38,6 @@
   * [Lambda 函数与表达式](base/han-shu/lambda-han-shu-yu-biao-da-shi.md)
   * [函数的常见样式](base/han-shu/han-shu-de-chang-jian-yang-shi.md)
   * [函数分文件编写](base/han-shu/han-shu-fen-wen-jian-bian-xie.md)
-* [向量](base/xiang-liang.md)
 * [指针](base/zhi-zhen/README.md)
   * [NULL 指针 和 野指针](base/zhi-zhen/null-zhi-zhen-he-ye-zhi-zhen/README.md)
     * [指针的算数计算](base/zhi-zhen/null-zhi-zhen-he-ye-zhi-zhen/zhi-zhen-de-suan-shu-ji-suan.md)
@@ -49,7 +48,6 @@
   * [指针数组](base/zhi-zhen/zhi-zhen-shu-zu.md)
   * [从函数返回指针](base/zhi-zhen/cong-han-shu-fan-hui-zhi-zhen.md)
   * [指向指针的指针（多级间接寻址）](base/zhi-zhen/zhi-xiang-zhi-zhen-de-zhi-zhen-duo-ji-jian-jie-xun-zhi.md)
-* [表达式](base/biao-da-shi.md)
 * [结构体](base/jie-gou-ti/README.md)
   * [结构体数组](base/jie-gou-ti/jie-gou-ti-shu-zu.md)
   * [结构体指针](base/jie-gou-ti/jie-gou-ti-zhi-zhen.md)
@@ -57,9 +55,18 @@
   * [结构体做函数参数](base/jie-gou-ti/jie-gou-ti-zuo-han-shu-can-shu.md)
   * [结构体中const使用场景](base/jie-gou-ti/jie-gou-ti-zhong-const-shi-yong-chang-jing.md)
   * [结构体案例](base/jie-gou-ti/jie-gou-ti-an-li.md)
-* [语句](base/yu-ju.md)
-* [类](base/lei.md)
 * [练习-通讯录管理系统](base/lian-xi-tong-xun-lu-guan-li-xi-tong.md)
+
+## 🛎 核心编程
+
+* [内存分区模型](he-xin-bian-cheng/nei-cun-fen-qu-mo-xing/README.md)
+  * [程序运行前](he-xin-bian-cheng/nei-cun-fen-qu-mo-xing/cheng-xu-yun-hang-qian.md)
+  * [程序运行后](he-xin-bian-cheng/nei-cun-fen-qu-mo-xing/cheng-xu-yun-hang-hou.md)
+* [引用](he-xin-bian-cheng/yin-yong/README.md)
+  * [引用做函数参数](he-xin-bian-cheng/yin-yong/yin-yong-zuo-han-shu-can-shu.md)
+  * [引用做函数返回值](he-xin-bian-cheng/yin-yong/yin-yong-zuo-han-shu-fan-hui-zhi.md)
+  * [引用的本质](he-xin-bian-cheng/yin-yong/yin-yong-de-ben-zhi.md)
+* [类](he-xin-bian-cheng/lei.md)
 
 ## 🥝 标准库
 
