@@ -59,6 +59,7 @@
   * [结构体案例](base/jie-gou-ti/jie-gou-ti-an-li.md)
 * [语句](base/yu-ju.md)
 * [类](base/lei.md)
+* [练习-通讯录管理系统](base/lian-xi-tong-xun-lu-guan-li-xi-tong.md)
 
 ## 🥝 标准库
 
