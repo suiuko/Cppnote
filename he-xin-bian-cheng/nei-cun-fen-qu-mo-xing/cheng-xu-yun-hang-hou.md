@@ -39,7 +39,7 @@ int main(){
 
 > 指针本身也是局部变量，放在栈上，指针保存的数据存在堆区
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 

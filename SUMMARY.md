@@ -66,7 +66,13 @@
   * [引用做函数参数](he-xin-bian-cheng/yin-yong/yin-yong-zuo-han-shu-can-shu.md)
   * [引用做函数返回值](he-xin-bian-cheng/yin-yong/yin-yong-zuo-han-shu-fan-hui-zhi.md)
   * [引用的本质](he-xin-bian-cheng/yin-yong/yin-yong-de-ben-zhi.md)
-* [类](he-xin-bian-cheng/lei.md)
+  * [常量引用](he-xin-bian-cheng/yin-yong/chang-liang-yin-yong.md)
+* [函数提高](he-xin-bian-cheng/han-shu-ti-gao/README.md)
+  * [函数默认参数](he-xin-bian-cheng/han-shu-ti-gao/han-shu-mo-ren-can-shu.md)
+  * [函数占位参数](he-xin-bian-cheng/han-shu-ti-gao/han-shu-zhan-wei-can-shu.md)
+  * [函数重载](he-xin-bian-cheng/han-shu-ti-gao/han-shu-zhong-zai.md)
+* [类和对象](he-xin-bian-cheng/lei-he-dui-xiang/README.md)
+  * [封装](he-xin-bian-cheng/lei-he-dui-xiang/feng-zhuang.md)
 
 ## 🥝 标准库
 
