@@ -72,7 +72,8 @@
   * [函数占位参数](he-xin-bian-cheng/han-shu-ti-gao/han-shu-zhan-wei-can-shu.md)
   * [函数重载](he-xin-bian-cheng/han-shu-ti-gao/han-shu-zhong-zai.md)
 * [类和对象](he-xin-bian-cheng/lei-he-dui-xiang/README.md)
-  * [封装](he-xin-bian-cheng/lei-he-dui-xiang/feng-zhuang.md)
+  * [封装](he-xin-bian-cheng/lei-he-dui-xiang/feng-zhuang/README.md)
+    * [struct 和 class 区别](he-xin-bian-cheng/lei-he-dui-xiang/feng-zhuang/struct-he-class-qu-bie.md)
 
 ## 🥝 标准库
 
