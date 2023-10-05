@@ -74,6 +74,14 @@
 * [类和对象](he-xin-bian-cheng/lei-he-dui-xiang/README.md)
   * [封装](he-xin-bian-cheng/lei-he-dui-xiang/feng-zhuang/README.md)
     * [struct 和 class 区别](he-xin-bian-cheng/lei-he-dui-xiang/feng-zhuang/struct-he-class-qu-bie.md)
+    * [成员设置为私有](he-xin-bian-cheng/lei-he-dui-xiang/feng-zhuang/cheng-yuan-she-zhi-wei-si-you.md)
+  * [对象的初始化和清理](he-xin-bian-cheng/lei-he-dui-xiang/dui-xiang-de-chu-shi-hua-he-qing-li/README.md)
+    * [构造函数和析构函数](he-xin-bian-cheng/lei-he-dui-xiang/dui-xiang-de-chu-shi-hua-he-qing-li/gou-zao-han-shu-he-xi-gou-han-shu.md)
+    * [构造函数的分类及调用](he-xin-bian-cheng/lei-he-dui-xiang/dui-xiang-de-chu-shi-hua-he-qing-li/gou-zao-han-shu-de-fen-lei-ji-tiao-yong.md)
+    * [拷贝构造函数调用时机](he-xin-bian-cheng/lei-he-dui-xiang/dui-xiang-de-chu-shi-hua-he-qing-li/kao-bei-gou-zao-han-shu-tiao-yong-shi-ji.md)
+    * [构造函数调用规则](he-xin-bian-cheng/lei-he-dui-xiang/dui-xiang-de-chu-shi-hua-he-qing-li/gou-zao-han-shu-tiao-yong-gui-ze.md)
+    * [深拷贝与浅拷贝](he-xin-bian-cheng/lei-he-dui-xiang/dui-xiang-de-chu-shi-hua-he-qing-li/shen-kao-bei-yu-qian-kao-bei.md)
+    * [初始化列表](he-xin-bian-cheng/lei-he-dui-xiang/dui-xiang-de-chu-shi-hua-he-qing-li/chu-shi-hua-lie-biao.md)
 
 ## 🥝 标准库
 
