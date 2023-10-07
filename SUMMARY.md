@@ -89,6 +89,14 @@
     * [this指针概念](he-xin-bian-cheng/lei-he-dui-xiang/dui-xiang-mo-xing-he-this-zhi-zhen/this-zhi-zhen-gai-nian.md)
     * [空指针访问成员函数](he-xin-bian-cheng/lei-he-dui-xiang/dui-xiang-mo-xing-he-this-zhi-zhen/kong-zhi-zhen-fang-wen-cheng-yuan-han-shu.md)
     * [const修饰成员函数](he-xin-bian-cheng/lei-he-dui-xiang/dui-xiang-mo-xing-he-this-zhi-zhen/const-xiu-shi-cheng-yuan-han-shu.md)
+  * [友元](he-xin-bian-cheng/lei-he-dui-xiang/you-yuan/README.md)
+    * [全局函数做友元](he-xin-bian-cheng/lei-he-dui-xiang/you-yuan/quan-ju-han-shu-zuo-you-yuan.md)
+    * [类做友元](he-xin-bian-cheng/lei-he-dui-xiang/you-yuan/lei-zuo-you-yuan.md)
+    * [成员函数做友元](he-xin-bian-cheng/lei-he-dui-xiang/you-yuan/cheng-yuan-han-shu-zuo-you-yuan.md)
+  * [运算符重载](he-xin-bian-cheng/lei-he-dui-xiang/yun-suan-fu-zhong-zai/README.md)
+    * [1 加号运算符重载](he-xin-bian-cheng/lei-he-dui-xiang/yun-suan-fu-zhong-zai/1-jia-hao-yun-suan-fu-zhong-zai.md)
+    * [2 左移运算符重载](he-xin-bian-cheng/lei-he-dui-xiang/yun-suan-fu-zhong-zai/2-zuo-yi-yun-suan-fu-zhong-zai.md)
+    * [3 递增运算符重载](he-xin-bian-cheng/lei-he-dui-xiang/yun-suan-fu-zhong-zai/3-di-zeng-yun-suan-fu-zhong-zai.md)
 
 ## 🥝 标准库
 
