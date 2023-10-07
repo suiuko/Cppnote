@@ -86,7 +86,7 @@ public:
 //调用无参构造函数
 void test01() {
     //1.括号法
-	Person p; //调用无参构造函数
+    Person p; //调用无参构造函数
     Person p2(10); //有参构造函数
     Person p3(p2); //拷贝构造函数
 
@@ -102,7 +102,8 @@ void test01() {
     Person x2 = Person(10); //有参构造
     Person x3 = Person(x2); //拷贝构造
     //Person(10)这个是匿名对象，特点：当前行执行结束后，系统会立即回收掉匿名对象
-    //不要利用拷贝构造函数，初始化匿名对象；编译器会认为 Person(x3) 等价于Person x3;对象声明会触发重定义；
+    //不要利用拷贝构造函数，初始化匿名对象；编译器会认为 Person(x3) 等价于Person x3;
+    //对象声明会触发重定义；
 
     //3. 隐式转换法
     Person x4 =10; //相当于写了 Person x4 =Person(10);

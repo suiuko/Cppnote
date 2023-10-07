@@ -82,6 +82,13 @@
     * [构造函数调用规则](he-xin-bian-cheng/lei-he-dui-xiang/dui-xiang-de-chu-shi-hua-he-qing-li/gou-zao-han-shu-tiao-yong-gui-ze.md)
     * [深拷贝与浅拷贝](he-xin-bian-cheng/lei-he-dui-xiang/dui-xiang-de-chu-shi-hua-he-qing-li/shen-kao-bei-yu-qian-kao-bei.md)
     * [初始化列表](he-xin-bian-cheng/lei-he-dui-xiang/dui-xiang-de-chu-shi-hua-he-qing-li/chu-shi-hua-lie-biao.md)
+    * [类对象作为类成员](he-xin-bian-cheng/lei-he-dui-xiang/dui-xiang-de-chu-shi-hua-he-qing-li/lei-dui-xiang-zuo-wei-lei-cheng-yuan.md)
+    * [静态成员](he-xin-bian-cheng/lei-he-dui-xiang/dui-xiang-de-chu-shi-hua-he-qing-li/jing-tai-cheng-yuan.md)
+  * [对象模型和this指针](he-xin-bian-cheng/lei-he-dui-xiang/dui-xiang-mo-xing-he-this-zhi-zhen/README.md)
+    * [成员变量和成员函数分开存储](he-xin-bian-cheng/lei-he-dui-xiang/dui-xiang-mo-xing-he-this-zhi-zhen/cheng-yuan-bian-liang-he-cheng-yuan-han-shu-fen-kai-cun-chu.md)
+    * [this指针概念](he-xin-bian-cheng/lei-he-dui-xiang/dui-xiang-mo-xing-he-this-zhi-zhen/this-zhi-zhen-gai-nian.md)
+    * [空指针访问成员函数](he-xin-bian-cheng/lei-he-dui-xiang/dui-xiang-mo-xing-he-this-zhi-zhen/kong-zhi-zhen-fang-wen-cheng-yuan-han-shu.md)
+    * [const修饰成员函数](he-xin-bian-cheng/lei-he-dui-xiang/dui-xiang-mo-xing-he-this-zhi-zhen/const-xiu-shi-cheng-yuan-han-shu.md)
 
 ## 🥝 标准库
 
