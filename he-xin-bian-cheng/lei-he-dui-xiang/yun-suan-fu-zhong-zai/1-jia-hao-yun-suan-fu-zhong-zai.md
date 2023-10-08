@@ -6,7 +6,7 @@
 >
 > 不要滥用运算符重载
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption><p>加号运算符重载</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption><p>加号运算符重载</p></figcaption></figure>
 
 ```cpp
 #include<iostream>

@@ -8,6 +8,10 @@
 
 <figure><img src="../../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 
+{% content-ref url="../yun-suan-fu-zhong-zai/4-fu-zhi-yun-suan-fu-zhong-zai.md" %}
+[4-fu-zhi-yun-suan-fu-zhong-zai.md](../yun-suan-fu-zhong-zai/4-fu-zhi-yun-suan-fu-zhong-zai.md)
+{% endcontent-ref %}
+
 ```cpp
 #include<iostream>
 

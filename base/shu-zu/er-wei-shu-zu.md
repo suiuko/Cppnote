@@ -7,7 +7,7 @@
 3. 数据类型 数组名 \[行数]\[列数] = {数据 1, 数据 2,数据 3,数据 4};
 4. 数据类型 数组名 \[]\[列数] = {数据 1, 数据 2,数据 3,数据 4};
 
-<figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ```cpp
 #include<iostream>

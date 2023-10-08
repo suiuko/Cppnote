@@ -6,7 +6,7 @@
 
 **引用是直接对数据进行修改了，可以在函数中使用引用&别名的方法来代替指针的操作。**
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 ```cpp
 #include<iostream>
