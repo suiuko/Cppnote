@@ -103,6 +103,12 @@
   * [继承](he-xin-bian-cheng/lei-he-dui-xiang/ji-cheng/README.md)
     * [基本语法](he-xin-bian-cheng/lei-he-dui-xiang/ji-cheng/ji-ben-yu-fa.md)
     * [继承方式](he-xin-bian-cheng/lei-he-dui-xiang/ji-cheng/ji-cheng-fang-shi.md)
+    * [继承中的对象模型](he-xin-bian-cheng/lei-he-dui-xiang/ji-cheng/ji-cheng-zhong-de-dui-xiang-mo-xing.md)
+    * [继承中的构造和析构顺序](he-xin-bian-cheng/lei-he-dui-xiang/ji-cheng/ji-cheng-zhong-de-gou-zao-he-xi-gou-shun-xu.md)
+    * [继承同名成员处理方式](he-xin-bian-cheng/lei-he-dui-xiang/ji-cheng/ji-cheng-tong-ming-cheng-yuan-chu-li-fang-shi.md)
+    * [继承同名静态成员处理方式](he-xin-bian-cheng/lei-he-dui-xiang/ji-cheng/ji-cheng-tong-ming-jing-tai-cheng-yuan-chu-li-fang-shi.md)
+    * [多继承语法](he-xin-bian-cheng/lei-he-dui-xiang/ji-cheng/duo-ji-cheng-yu-fa.md)
+    * [菱形继承](he-xin-bian-cheng/lei-he-dui-xiang/ji-cheng/ling-xing-ji-cheng.md)
 
 ## 🥝 标准库
 
