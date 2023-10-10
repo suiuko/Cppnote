@@ -10,7 +10,7 @@
 
 #### 示例：将数组{4,2,8,0,5,7,1,3,9}进行升序排序
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 排序的总轮数 = 元素的个数 -1&#x20;
 
