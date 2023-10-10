@@ -109,6 +109,7 @@
     * [继承同名静态成员处理方式](he-xin-bian-cheng/lei-he-dui-xiang/ji-cheng/ji-cheng-tong-ming-jing-tai-cheng-yuan-chu-li-fang-shi.md)
     * [多继承语法](he-xin-bian-cheng/lei-he-dui-xiang/ji-cheng/duo-ji-cheng-yu-fa.md)
     * [菱形继承](he-xin-bian-cheng/lei-he-dui-xiang/ji-cheng/ling-xing-ji-cheng.md)
+  * [多态](he-xin-bian-cheng/lei-he-dui-xiang/duo-tai.md)
 
 ## 🥝 标准库
 
