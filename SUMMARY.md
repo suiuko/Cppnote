@@ -110,8 +110,25 @@
     * [多继承语法](he-xin-bian-cheng/lei-he-dui-xiang/ji-cheng/duo-ji-cheng-yu-fa.md)
     * [菱形继承](he-xin-bian-cheng/lei-he-dui-xiang/ji-cheng/ling-xing-ji-cheng.md)
   * [多态](he-xin-bian-cheng/lei-he-dui-xiang/duo-tai/README.md)
-    * [多态案例——计算器类](he-xin-bian-cheng/lei-he-dui-xiang/duo-tai/duo-tai-an-li-ji-suan-qi-lei.md)
+    * [基本语法](he-xin-bian-cheng/lei-he-dui-xiang/duo-tai/ji-ben-yu-fa.md)
+    * [多态案例1——计算器类](he-xin-bian-cheng/lei-he-dui-xiang/duo-tai/duo-tai-an-li-1-ji-suan-qi-lei.md)
     * [纯函数和抽象类](he-xin-bian-cheng/lei-he-dui-xiang/duo-tai/chun-han-shu-he-chou-xiang-lei.md)
+    * [多态案例 2——制作饮品](he-xin-bian-cheng/lei-he-dui-xiang/duo-tai/duo-tai-an-li-2-zhi-zuo-yin-pin.md)
+    * [虚析构和纯虚析构](he-xin-bian-cheng/lei-he-dui-xiang/duo-tai/xu-xi-gou-he-chun-xu-xi-gou.md)
+    * [多态案例3——电脑组装](he-xin-bian-cheng/lei-he-dui-xiang/duo-tai/duo-tai-an-li-3-dian-nao-zu-zhuang.md)
+* [文件操作](he-xin-bian-cheng/wen-jian-cao-zuo/README.md)
+  * [文本文件](he-xin-bian-cheng/wen-jian-cao-zuo/wen-ben-wen-jian/README.md)
+    * [写文件](he-xin-bian-cheng/wen-jian-cao-zuo/wen-ben-wen-jian/xie-wen-jian.md)
+    * [读文件](he-xin-bian-cheng/wen-jian-cao-zuo/wen-ben-wen-jian/du-wen-jian.md)
+  * [二进制文件](he-xin-bian-cheng/wen-jian-cao-zuo/er-jin-zhi-wen-jian/README.md)
+    * [写文件](he-xin-bian-cheng/wen-jian-cao-zuo/er-jin-zhi-wen-jian/xie-wen-jian.md)
+    * [读文件](he-xin-bian-cheng/wen-jian-cao-zuo/er-jin-zhi-wen-jian/du-wen-jian.md)
+* [练习-职工管理系统](he-xin-bian-cheng/lian-xi-zhi-gong-guan-li-xi-tong.md)
+
+## 🍍 提高编程
+
+* [模板](ti-gao-bian-cheng/mo-ban/README.md)
+  * [模板语法](ti-gao-bian-cheng/mo-ban/mo-ban-yu-fa.md)
 
 ## 🥝 标准库
 
