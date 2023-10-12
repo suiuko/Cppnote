@@ -128,7 +128,27 @@
 ## 🍍 提高编程
 
 * [模板](ti-gao-bian-cheng/mo-ban/README.md)
-  * [模板语法](ti-gao-bian-cheng/mo-ban/mo-ban-yu-fa.md)
+  * [函数模板](ti-gao-bian-cheng/mo-ban/han-shu-mo-ban/README.md)
+    * [模板语法](ti-gao-bian-cheng/mo-ban/han-shu-mo-ban/mo-ban-yu-fa.md)
+    * [函数模板注意事项](ti-gao-bian-cheng/mo-ban/han-shu-mo-ban/han-shu-mo-ban-zhu-yi-shi-xiang.md)
+    * [函数模板案例](ti-gao-bian-cheng/mo-ban/han-shu-mo-ban/han-shu-mo-ban-an-li.md)
+    * [普通函数和函数模板的区别](ti-gao-bian-cheng/mo-ban/han-shu-mo-ban/pu-tong-han-shu-he-han-shu-mo-ban-de-qu-bie.md)
+    * [普通函数与函数模板的调用规则](ti-gao-bian-cheng/mo-ban/han-shu-mo-ban/pu-tong-han-shu-yu-han-shu-mo-ban-de-tiao-yong-gui-ze.md)
+    * [模板的局限性](ti-gao-bian-cheng/mo-ban/han-shu-mo-ban/mo-ban-de-ju-xian-xing.md)
+  * [类模板](ti-gao-bian-cheng/mo-ban/lei-mo-ban/README.md)
+    * [类模板语法](ti-gao-bian-cheng/mo-ban/lei-mo-ban/lei-mo-ban-yu-fa.md)
+    * [类模板与函数模板区别](ti-gao-bian-cheng/mo-ban/lei-mo-ban/lei-mo-ban-yu-han-shu-mo-ban-qu-bie.md)
+    * [(以下未看)类模板中成员函数创建时机](ti-gao-bian-cheng/mo-ban/lei-mo-ban/yi-xia-wei-kan-lei-mo-ban-zhong-cheng-yuan-han-shu-chuang-jian-shi-ji.md)
+    * [类模板对象做函数参数](ti-gao-bian-cheng/mo-ban/lei-mo-ban/lei-mo-ban-dui-xiang-zuo-han-shu-can-shu.md)
+    * [类模板与继承](ti-gao-bian-cheng/mo-ban/lei-mo-ban/lei-mo-ban-yu-ji-cheng.md)
+    * [类模板成员函数类外实现](ti-gao-bian-cheng/mo-ban/lei-mo-ban/lei-mo-ban-cheng-yuan-han-shu-lei-wai-shi-xian.md)
+    * [类模板分文件编写](ti-gao-bian-cheng/mo-ban/lei-mo-ban/lei-mo-ban-fen-wen-jian-bian-xie.md)
+    * [类模板与友元](ti-gao-bian-cheng/mo-ban/lei-mo-ban/lei-mo-ban-yu-you-yuan.md)
+    * [类模板案例](ti-gao-bian-cheng/mo-ban/lei-mo-ban/lei-mo-ban-an-li.md)
+* [STL](ti-gao-bian-cheng/stl/README.md)
+  * [容器、算法、迭代器](ti-gao-bian-cheng/stl/rong-qi-suan-fa-die-dai-qi.md)
+  * [常用容器](ti-gao-bian-cheng/stl/chang-yong-rong-qi/README.md)
+    * [vector容器](ti-gao-bian-cheng/stl/chang-yong-rong-qi/vector-rong-qi.md)
 
 ## 🥝 标准库
 

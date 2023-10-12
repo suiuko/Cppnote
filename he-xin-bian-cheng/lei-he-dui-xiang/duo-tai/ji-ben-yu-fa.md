@@ -48,7 +48,7 @@ void doSpeak(Aniaml &animal){ //Animal &animal = cat;
 
 重写：函数返回值类型 函数名 参数列表 完全一致称为重写
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 ```cpp
 #include<iostream>
