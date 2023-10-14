@@ -148,7 +148,9 @@
 * [STL](ti-gao-bian-cheng/stl/README.md)
   * [容器、算法、迭代器](ti-gao-bian-cheng/stl/rong-qi-suan-fa-die-dai-qi.md)
   * [常用容器](ti-gao-bian-cheng/stl/chang-yong-rong-qi/README.md)
-    * [vector容器](ti-gao-bian-cheng/stl/chang-yong-rong-qi/vector-rong-qi.md)
+    * [vector容器](ti-gao-bian-cheng/stl/chang-yong-rong-qi/vector-rong-qi/README.md)
+      * [详细讲解](ti-gao-bian-cheng/stl/chang-yong-rong-qi/vector-rong-qi/xiang-xi-jiang-jie.md)
+    * [string容器](ti-gao-bian-cheng/stl/chang-yong-rong-qi/string-rong-qi.md)
 
 ## 🥝 标准库
 
