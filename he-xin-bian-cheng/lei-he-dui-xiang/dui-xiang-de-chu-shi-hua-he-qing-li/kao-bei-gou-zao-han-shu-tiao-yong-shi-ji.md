@@ -6,7 +6,7 @@ C++中拷贝构造函数调用时机通常有三种情况
 * 值传递的方式给函数参数传值
 * 以值方式返回局部对象
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ```cpp
 #include<iostream>
