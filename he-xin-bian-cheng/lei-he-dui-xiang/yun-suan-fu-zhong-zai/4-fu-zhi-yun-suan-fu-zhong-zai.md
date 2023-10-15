@@ -9,7 +9,7 @@ c++编译器至少给一个类添加4个函数
 
 如果类中有属性指向堆区，做赋值操作时也会出现深浅拷贝问题
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% content-ref url="../dui-xiang-de-chu-shi-hua-he-qing-li/shen-kao-bei-yu-qian-kao-bei.md" %}
 [shen-kao-bei-yu-qian-kao-bei.md](../dui-xiang-de-chu-shi-hua-he-qing-li/shen-kao-bei-yu-qian-kao-bei.md)

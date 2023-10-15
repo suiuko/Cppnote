@@ -73,7 +73,7 @@ int main(){
 
 分别用全局函数和成员函数判断两个立方体是否相等。
 
-![](<../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png>)
+![](<../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png>)
 
 ```cpp
 #include<iostream>

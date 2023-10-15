@@ -152,6 +152,7 @@
       * [简单讲解](ti-gao-bian-cheng/stl/chang-yong-rong-qi/vector-rong-qi/jian-dan-jiang-jie.md)
       * [详细讲解](ti-gao-bian-cheng/stl/chang-yong-rong-qi/vector-rong-qi/xiang-xi-jiang-jie.md)
     * [string容器](ti-gao-bian-cheng/stl/chang-yong-rong-qi/string-rong-qi.md)
+    * [deque容器](ti-gao-bian-cheng/stl/chang-yong-rong-qi/deque-rong-qi.md)
 
 ## 🥝 标准库
 
