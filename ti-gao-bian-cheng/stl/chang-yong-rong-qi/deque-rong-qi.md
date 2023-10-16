@@ -12,7 +12,7 @@
 * deque相对而言，对头部的插入删除速度回比vector快
 * vector访问元素时的速度会比deque快,这和两者内部实现有关
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 deque内部工作原理:
 
@@ -20,7 +20,7 @@ deque内部有个**中控器**，维护每段缓冲区中的内容，缓冲区�
 
 中控器维护的是每个缓冲区的地址，使得使用deque时像一片连续的内存空间
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * deque容器的迭代器也是支持随机访问的
 
@@ -307,3 +307,99 @@ int main(){
 * `front();` //返回容器中第一个数据元素
 * `back();` //返回容器中最后一个数据元素
 
+> 除了用迭代器获取deque容器中元素，\[ ]和at也可以
+>
+> front返回容器第一个元素
+>
+> back返回容器最后一个元素
+
+```cpp
+#include<iostream>
+#include<deque>
+
+using namespace std;
+void printDeque(const deque<int>& d) 
+{
+	for (deque<int>::const_iterator it = d.begin(); it != d.end(); it++) {
+		cout << *it << " ";
+
+	}
+	cout << endl;
+}
+
+//数据存取
+void test01()
+{
+
+	deque<int> d;
+	d.push_back(10);
+	d.push_back(20);
+	d.push_front(100);
+	d.push_front(200);
+
+	for (int i = 0; i < d.size(); i++) {
+		cout << d[i] << " ";
+	}
+	cout << endl;
+
+
+	for (int i = 0; i < d.size(); i++) {
+		cout << d.at(i) << " ";
+	}
+	cout << endl;
+
+	cout << "front:" << d.front() << endl;
+
+	cout << "back:" << d.back() << endl;
+
+}
+
+int main(){
+    test01();
+
+}
+```
+
+## 7. 排序
+
+**算法：**
+
+* `sort(iterator beg, iterator end)` //对beg和end区间内元素进行排序
+
+> 需要使用 \<algorithm>这个头文件
+>
+> 循序：默认排序规则，从下到大 升序
+>
+> 对于只吃随机访问的迭代器的容器，都可以利用 sort 算法直接对其进行排序
+>
+> vector容器也可以使用sort 进行排序
+
+```cpp
+#include<iostream>
+#include<deque>
+#include<algorithm>
+
+using namespace std;
+
+void printDeque(const deque<int> &d){
+    for(deque<int>::const_iterator it = d.begin(); it !=d.end();it++){
+        cout << *it << " ";
+    }
+    cout << endl;
+}
+
+void test01(){
+
+    deque<int>d;
+    d.push_back(10);
+    d.push_back(20);
+    d.push_front(100);
+    d.push_front(200);
+    printDeque(d);
+    sort(d.begin(), d.end());
+    printDeque(d);
+}
+int main(){
+    test01();
+}
+```

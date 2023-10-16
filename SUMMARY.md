@@ -153,6 +153,10 @@
       * [详细讲解](ti-gao-bian-cheng/stl/chang-yong-rong-qi/vector-rong-qi/xiang-xi-jiang-jie.md)
     * [string容器](ti-gao-bian-cheng/stl/chang-yong-rong-qi/string-rong-qi.md)
     * [deque容器](ti-gao-bian-cheng/stl/chang-yong-rong-qi/deque-rong-qi.md)
+    * [stack 容器](ti-gao-bian-cheng/stl/chang-yong-rong-qi/stack-rong-qi.md)
+    * [queue容器](ti-gao-bian-cheng/stl/chang-yong-rong-qi/queue-rong-qi.md)
+    * [list容器](ti-gao-bian-cheng/stl/chang-yong-rong-qi/list-rong-qi.md)
+    * [案例 - 评委打分](ti-gao-bian-cheng/stl/chang-yong-rong-qi/an-li-ping-wei-da-fen.md)
 
 ## 🥝 标准库
 

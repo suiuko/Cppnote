@@ -4,7 +4,7 @@
 * 由于重载后使用的方式非常像函数的调用，因此称为仿函数
 * 仿函数没有固定写法，非常灵活
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ```cpp
 #include<iostream>
