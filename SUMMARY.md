@@ -167,6 +167,9 @@
     * [常用遍历算法](ti-gao-bian-cheng/stl/stl-chang-yong-suan-fa/chang-yong-bian-li-suan-fa.md)
     * [常用查找算法](ti-gao-bian-cheng/stl/stl-chang-yong-suan-fa/chang-yong-cha-zhao-suan-fa.md)
     * [常用的排序算法](ti-gao-bian-cheng/stl/stl-chang-yong-suan-fa/chang-yong-de-pai-xu-suan-fa.md)
+    * [常用的拷贝和替换算法](ti-gao-bian-cheng/stl/stl-chang-yong-suan-fa/chang-yong-de-kao-bei-he-ti-huan-suan-fa.md)
+    * [常用算术生成算法](ti-gao-bian-cheng/stl/stl-chang-yong-suan-fa/chang-yong-suan-shu-sheng-cheng-suan-fa.md)
+    * [常用集合算法](ti-gao-bian-cheng/stl/stl-chang-yong-suan-fa/chang-yong-ji-he-suan-fa.md)
 
 ## 🥝 标准库
 
