@@ -159,6 +159,13 @@
     * [set/multiset容器](ti-gao-bian-cheng/stl/chang-yong-rong-qi/setmultiset-rong-qi.md)
     * [map/multimap容器](ti-gao-bian-cheng/stl/chang-yong-rong-qi/mapmultimap-rong-qi.md)
     * [案例 - 评委打分](ti-gao-bian-cheng/stl/chang-yong-rong-qi/an-li-ping-wei-da-fen.md)
+  * [STL - 函数对象](ti-gao-bian-cheng/stl/stl-han-shu-dui-xiang/README.md)
+    * [函数对象](ti-gao-bian-cheng/stl/stl-han-shu-dui-xiang/han-shu-dui-xiang.md)
+    * [谓词](ti-gao-bian-cheng/stl/stl-han-shu-dui-xiang/wei-ci.md)
+    * [内建函数对象](ti-gao-bian-cheng/stl/stl-han-shu-dui-xiang/nei-jian-han-shu-dui-xiang.md)
+  * [STL - 常用算法](ti-gao-bian-cheng/stl/stl-chang-yong-suan-fa/README.md)
+    * [常用遍历算法](ti-gao-bian-cheng/stl/stl-chang-yong-suan-fa/chang-yong-bian-li-suan-fa.md)
+    * [常用查找算法](ti-gao-bian-cheng/stl/stl-chang-yong-suan-fa/chang-yong-cha-zhao-suan-fa.md)
 
 ## 🥝 标准库
 
