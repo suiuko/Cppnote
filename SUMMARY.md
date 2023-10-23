@@ -1,6 +1,12 @@
 # Table of contents
 
 * [🍉 Cppnote](README.md)
+  * [docs-C](https://devdocs.io/c/)
+  * [docs-cpp](https://devdocs.io/cpp/)
+
+## 🐽 C
+
+* [Untitled](c/untitled.md)
 
 ## 🥥 base
 
