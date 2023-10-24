@@ -6,7 +6,7 @@
 
 ## 🐽 C
 
-* [Untitled](c/untitled.md)
+* [C查询](https://www.runoob.com/cprogramming/c-tutorial.html)
 
 ## 🥥 base
 
