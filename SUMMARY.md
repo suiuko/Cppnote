@@ -7,6 +7,8 @@
 ## 🐽 C
 
 * [C查询](https://www.runoob.com/cprogramming/c-tutorial.html)
+* [小知识](c/xiao-zhi-shi/README.md)
+  * [引用& 和 解引用\*](c/xiao-zhi-shi/yin-yong-he-jie-yin-yong.md)
 
 ## 🥥 base
 
