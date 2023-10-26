@@ -7,6 +7,11 @@
 ## 🐽 C
 
 * [C查询](https://www.runoob.com/cprogramming/c-tutorial.html)
+* [输入和输出](c/shu-ru-he-shu-chu.md)
+* [基本数据类型](c/ji-ben-shu-ju-lei-xing/README.md)
+  * [变量](c/ji-ben-shu-ju-lei-xing/bian-liang.md)
+  * [常量](c/ji-ben-shu-ju-lei-xing/chang-liang.md)
+  * [存储类](c/ji-ben-shu-ju-lei-xing/cun-chu-lei.md)
 * [小知识](c/xiao-zhi-shi/README.md)
   * [引用& 和 解引用\*](c/xiao-zhi-shi/yin-yong-he-jie-yin-yong.md)
 
